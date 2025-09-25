@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aznable-182
-- All of my projects are my intellectual property; DO NOT REUSE WITHOUT PROPER CREDIT
-- 🌱 I currently program with Python, but am looking to learn both c++ and Java
+- All of my projects are my intellectual property but are open source; feel free to add, expand on, or take parts of my code, but !!DO NOT REUSE WITHOUT PROPER CREDIT!!
+- 🌱 I currently program with Python, learning C, and will learn both C++ and Java
 - 😄 Pronouns: he/him
 
 <!---
