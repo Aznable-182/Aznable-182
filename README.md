@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Aznable-182
+- All of my projects are my intellectual property; DO NOT REUSE WITHOUT PROPER CREDIT
 - 🌱 I currently program with Python, but am looking to learn both c++ and Java
 - 😄 Pronouns: he/him
 
